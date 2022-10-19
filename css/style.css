@@ -1,0 +1,54 @@
+body {
+    font-family: Verdana;
+}
+.navbar-brand {
+    color: #FBFBFF;
+}
+
+.nav-link {
+    color: #FBFBFF;
+}
+
+.navbar {
+    padding-left: 20px;
+    background-color: #7264FF;    
+}
+
+.quem-somos {
+    background-color: #F3F2FF;
+}
+
+.parceiros {
+    background-color: #E1DEFF;
+}
+
+.margin {
+
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.nav-margin {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.img-margin {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.paragrafo-um {
+    text-align: justify;
+    text-justify: inter-word;
+    padding-bottom: 40px;
+}
+
+.titulo2 {
+    padding-bottom: 20px;
+}
+
+.bg-footer {
+    background-color: #7264FF;
+    color: #FBFBFF;
+}
